@@ -1,4 +1,4 @@
-# BlitzBot
+# Blitzbot
 
 A bot that allows various hacks, such as speed, in Blitz Brigade.
 
@@ -21,7 +21,7 @@ Clone the repo.
 Open the main cheat table:
 
 	```
-	src/BlitzBot.CT
+	src/Blitzbot.CT
 	```
 
 ## Authors
