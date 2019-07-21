@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the main cheat table:
 
-	```
-	src/Blitzbot.CT
-	```
+```
+src/Blitzbot.CT
+```
 
 ## Authors
 
